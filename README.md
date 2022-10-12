@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kehinde</h1>
+<h1 align="center">Hi 👋, I'm Kehinde pronounce as "Cain-Day or Keh-hen-day</h1>
 <h3 align="center">Cloud & a little bit of Data 😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regality1&label=Profile%20views&color=0e75b6&style=flat" alt="regality1" /> </p>
